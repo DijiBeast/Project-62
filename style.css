@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+
+
+.img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+
+
+}
+
+.img:hover {
+    width: 200px;
+    height: 200px;
+}
+
+.item active {
+    width: 300px;
+    height: 300px;
+}
+
+item {
+    width: 300px;
+    height: 300px;
+}
